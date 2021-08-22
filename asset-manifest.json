@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/booklies/static/css/main.cb3f9128.chunk.css",
+    "main.js": "/booklies/static/js/main.db13f329.chunk.js",
+    "main.js.map": "/booklies/static/js/main.db13f329.chunk.js.map",
+    "runtime-main.js": "/booklies/static/js/runtime-main.8b101349.js",
+    "runtime-main.js.map": "/booklies/static/js/runtime-main.8b101349.js.map",
+    "static/js/2.c8aaaa47.chunk.js": "/booklies/static/js/2.c8aaaa47.chunk.js",
+    "static/js/2.c8aaaa47.chunk.js.map": "/booklies/static/js/2.c8aaaa47.chunk.js.map",
+    "static/js/3.feadab75.chunk.js": "/booklies/static/js/3.feadab75.chunk.js",
+    "static/js/3.feadab75.chunk.js.map": "/booklies/static/js/3.feadab75.chunk.js.map",
+    "index.html": "/booklies/index.html",
+    "static/css/main.cb3f9128.chunk.css.map": "/booklies/static/css/main.cb3f9128.chunk.css.map",
+    "static/js/2.c8aaaa47.chunk.js.LICENSE.txt": "/booklies/static/js/2.c8aaaa47.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b101349.js",
+    "static/js/2.c8aaaa47.chunk.js",
+    "static/css/main.cb3f9128.chunk.css",
+    "static/js/main.db13f329.chunk.js"
+  ]
+}
